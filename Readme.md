@@ -1,4 +1,4 @@
-# PIX GENERATOR API
+# ❖ PIX GENERATOR - API
 
 [![NodeJS](https://img.shields.io/badge/Node.JS-000?style=for-the-badge&logo=Node.js)](https://nodejs.org/en/)
 [![ExpressJS](https://img.shields.io/badge/Express.JS-000?style=for-the-badge&logo=Express)](https://expressjs.com/pt-br/)
